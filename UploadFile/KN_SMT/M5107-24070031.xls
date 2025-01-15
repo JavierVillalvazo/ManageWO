@@ -1,0 +1,1876 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
+<style><!--
+td  {font-family:Courier New, serif;}
+.xl24  {mso-number-format:"@";}.xl30 {mso-style-parent:style0; mso-number-format:"0_ ";} .xl31 {mso-style-parent:style0; mso-number-format:"0.0_ ";} .xl32 {mso-style-parent:style0; mso-number-format:"0.00_ ";} .xl33 {mso-style-parent:style0; mso-number-format:"0.000_ ";} .xl34 {mso-style-parent:style0; mso-number-format:"0.0000_ ";} .xl35 {mso-style-parent:style0; mso-number-format:"0.00000_ ";} .xl36 {mso-style-parent:style0; mso-number-format:"0.000000_ ";} .xl37 {mso-style-parent:style0; mso-number-format:"0.0000000_ ";} .xl38 {mso-style-parent:style0; mso-number-format:"0.00000000_ ";} .xl39 {mso-style-parent:style0; mso-number-format:"0.000000000_ ";} .xl40 {mso-style-parent:style0; mso-number-format:"0.0000000000_ ";}
+--></style>
+<!--[if gte mso 9]><xml>
+<x:ExcelWorkbook>
+<x:DefaultRowHeight>330</x:DefaultRowHeight>
+</x:ExcelWorkbook>
+</xml><![endif]--></head>
+<body><table border=1 cellpadding=0 cellspacing=0 width=432 style='border-collapse: collapse;table-layout:fixed;width:324pt'>
+<tr height=22>
+<td><span style='mso-spacerun:yes'>BOM&nbsp;P/N</span></td>
+<td>P/N</td>
+<td><span style='mso-spacerun:yes'>Part&nbsp;Name</span></td>
+<td><span style='mso-spacerun:yes'>Standard&nbsp;QPA</span></td>
+<td><span style='mso-spacerun:yes'>Qty&nbsp;To&nbsp;Issue</span></td>
+<td><span style='mso-spacerun:yes'>Substitute&nbsp;code</span></td>
+<td><span style='mso-spacerun:yes'>Substitution&nbsp;Ratio</span></td>
+<td><span style='mso-spacerun:yes'>Issuing&nbsp;Unit</span></td>
+<td>Flag</td>
+<td><span style='mso-spacerun:yes'>Actual&nbsp;QPA</span></td>
+<td><span style='mso-spacerun:yes'>Issued&nbsp;Qty</span></td>
+</tr><tr height=22>
+<td class=xl24>01S0000120-00</td>
+<td class=xl24>01S0000120-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>01S0000320-00</td>
+<td class=xl24>01S0000320-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S0018514-21</td>
+<td class=xl24>01S0018514-21</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES(Metal&nbsp;film)</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S0759510-11</td>
+<td class=xl24>01S0759510-11</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES(LR2512-22R075F4)(Metal&nbsp;Alloy)</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S1000110-00</td>
+<td class=xl24>01S1000110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S1001210-00</td>
+<td class=xl24>01S1001210-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>01S1001310-00</td>
+<td class=xl24>01S1001310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>4.00000000</td>
+<td class=xl33>2654.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>4.02121212</td>
+<td class=xl33>2654.000</td>
+</tr><tr height=22>
+<td class=xl24>01S1002110-00</td>
+<td class=xl24>01S1002110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>6.00000000</td>
+<td class=xl33>3980.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>6.03030303</td>
+<td class=xl33>3980.000</td>
+</tr><tr height=22>
+<td class=xl24>01S1002210-00</td>
+<td class=xl24>01S1002210-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>4.00000000</td>
+<td class=xl33>2654.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>4.02121212</td>
+<td class=xl33>2654.000</td>
+</tr><tr height=22>
+<td class=xl24>01S1002310-00</td>
+<td class=xl24>01S1002310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>8.00000000</td>
+<td class=xl33>5307.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>8.04090909</td>
+<td class=xl33>5307.000</td>
+</tr><tr height=22>
+<td class=xl24>01S1003110-00</td>
+<td class=xl24>01S1003110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>01S1003210-00</td>
+<td class=xl24>01S1003210-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>4.00000000</td>
+<td class=xl33>2654.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>4.02121212</td>
+<td class=xl33>2654.000</td>
+</tr><tr height=22>
+<td class=xl24>01S1003310-00</td>
+<td class=xl24>01S1003310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>01S1003311-13</td>
+<td class=xl24>01S1003311-13</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Thermistor&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S1007121-02</td>
+<td class=xl24>01S1007121-02</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>5.00000000</td>
+<td class=xl33>3317.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>5.02575758</td>
+<td class=xl33>3317.000</td>
+</tr><tr height=22>
+<td class=xl24>01S1007310-00</td>
+<td class=xl24>01S1007310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S1102210-00</td>
+<td class=xl24>01S1102210-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>01S1102310-00</td>
+<td class=xl24>01S1102310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>01S1200110-00</td>
+<td class=xl24>01S1200110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>01S1201310-00</td>
+<td class=xl24>01S1201310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S1202310-00</td>
+<td class=xl24>01S1202310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S1502210-00</td>
+<td class=xl24>01S1502210-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S1502310-00</td>
+<td class=xl24>01S1502310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>3.00000000</td>
+<td class=xl33>1990.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>3.01515152</td>
+<td class=xl33>1990.000</td>
+</tr><tr height=22>
+<td class=xl24>01S1504110-00</td>
+<td class=xl24>01S1504110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>5.00000000</td>
+<td class=xl33>3317.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>5.02575758</td>
+<td class=xl33>3317.000</td>
+</tr><tr height=22>
+<td class=xl24>01S1802310-00</td>
+<td class=xl24>01S1802310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S1803210-00</td>
+<td class=xl24>01S1803210-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S2001110-00</td>
+<td class=xl24>01S2001110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S2001310-00</td>
+<td class=xl24>01S2001310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>4.00000000</td>
+<td class=xl33>2654.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>4.02121212</td>
+<td class=xl33>2654.000</td>
+</tr><tr height=22>
+<td class=xl24>01S2002110-00</td>
+<td class=xl24>01S2002110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S2002310-00</td>
+<td class=xl24>01S2002310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>01S2002321-13</td>
+<td class=xl24>01S2002321-13</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Thermistor&nbsp;RES</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>01S2003110-00</td>
+<td class=xl24>01S2003110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>4.00000000</td>
+<td class=xl33>2654.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>4.02121212</td>
+<td class=xl33>2654.000</td>
+</tr><tr height=22>
+<td class=xl24>01S2003210-00</td>
+<td class=xl24>01S2003210-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S2003310-00</td>
+<td class=xl24>01S2003310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S2004111-00</td>
+<td class=xl24>01S2004111-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>3.00000000</td>
+<td class=xl33>1990.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>3.01515152</td>
+<td class=xl33>1990.000</td>
+</tr><tr height=22>
+<td class=xl24>01S2202210-00</td>
+<td class=xl24>01S2202210-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S2202310-00</td>
+<td class=xl24>01S2202310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S2207110-00</td>
+<td class=xl24>01S2207110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>01S2208121-02</td>
+<td class=xl24>01S2208121-02</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>01S2702110-00</td>
+<td class=xl24>01S2702110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S2702210-00</td>
+<td class=xl24>01S2702210-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S2702310-00</td>
+<td class=xl24>01S2702310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S2703210-00</td>
+<td class=xl24>01S2703210-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S3000110-00</td>
+<td class=xl24>01S3000110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>01S3001210-00</td>
+<td class=xl24>01S3001210-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>01S3001310-00</td>
+<td class=xl24>01S3001310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>3.00000000</td>
+<td class=xl33>1990.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>3.01515152</td>
+<td class=xl33>1990.000</td>
+</tr><tr height=22>
+<td class=xl24>01S3002110-00</td>
+<td class=xl24>01S3002110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>4.00000000</td>
+<td class=xl33>2654.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>4.02121212</td>
+<td class=xl33>2654.000</td>
+</tr><tr height=22>
+<td class=xl24>01S3003310-00</td>
+<td class=xl24>01S3003310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S3004110-00</td>
+<td class=xl24>01S3004110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>12.00000000</td>
+<td class=xl33>7960.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>12.06060606</td>
+<td class=xl33>7960.000</td>
+</tr><tr height=22>
+<td class=xl24>01S3302210-00</td>
+<td class=xl24>01S3302210-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>3.00000000</td>
+<td class=xl33>1990.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>3.01515152</td>
+<td class=xl33>1990.000</td>
+</tr><tr height=22>
+<td class=xl24>01S3602210-00</td>
+<td class=xl24>01S3602210-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S3603310-00</td>
+<td class=xl24>01S3603310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S3900110-00</td>
+<td class=xl24>01S3900110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S3900310-00</td>
+<td class=xl24>01S3900310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S3901310-00</td>
+<td class=xl24>01S3901310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>01S3902310-00</td>
+<td class=xl24>01S3902310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>3.00000000</td>
+<td class=xl33>1990.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>3.01515152</td>
+<td class=xl33>1990.000</td>
+</tr><tr height=22>
+<td class=xl24>01S3907121-02</td>
+<td class=xl24>01S3907121-02</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>01S4301310-00</td>
+<td class=xl24>01S4301310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S4302210-00</td>
+<td class=xl24>01S4302210-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>01S4302310-00</td>
+<td class=xl24>01S4302310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S4703310-00</td>
+<td class=xl24>01S4703310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S4707121-02</td>
+<td class=xl24>01S4707121-02</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>3.00000000</td>
+<td class=xl33>1990.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>3.01515152</td>
+<td class=xl33>1990.000</td>
+</tr><tr height=22>
+<td class=xl24>01S4707310-00</td>
+<td class=xl24>01S4707310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S4708110-00</td>
+<td class=xl24>01S4708110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>01S5100310-00</td>
+<td class=xl24>01S5100310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S5101110-00</td>
+<td class=xl24>01S5101110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S5101210-00</td>
+<td class=xl24>01S5101210-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>01S5101310-00</td>
+<td class=xl24>01S5101310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>4.00000000</td>
+<td class=xl33>2654.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>4.02121212</td>
+<td class=xl33>2654.000</td>
+</tr><tr height=22>
+<td class=xl24>01S5102110-00</td>
+<td class=xl24>01S5102110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>4.00000000</td>
+<td class=xl33>2654.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>4.02121212</td>
+<td class=xl33>2654.000</td>
+</tr><tr height=22>
+<td class=xl24>01S5102310-00</td>
+<td class=xl24>01S5102310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S5103110-00</td>
+<td class=xl24>01S5103110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S5103310-00</td>
+<td class=xl24>01S5103310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S5107110-00</td>
+<td class=xl24>01S5107110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S5108121-02</td>
+<td class=xl24>01S5108121-02</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>9.00000000</td>
+<td class=xl33>5970.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>9.04545455</td>
+<td class=xl33>5970.000</td>
+</tr><tr height=22>
+<td class=xl24>01S5601210-00</td>
+<td class=xl24>01S5601210-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S5601310-00</td>
+<td class=xl24>01S5601310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>6.00000000</td>
+<td class=xl33>3980.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>6.03030303</td>
+<td class=xl33>3980.000</td>
+</tr><tr height=22>
+<td class=xl24>01S5607121-02</td>
+<td class=xl24>01S5607121-02</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>01S6203110-00</td>
+<td class=xl24>01S6203110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>12.00000000</td>
+<td class=xl33>7960.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>12.06060606</td>
+<td class=xl33>7960.000</td>
+</tr><tr height=22>
+<td class=xl24>01S6801310-00</td>
+<td class=xl24>01S6801310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S6802310-00</td>
+<td class=xl24>01S6802310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S6803110-00</td>
+<td class=xl24>01S6803110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>19.00000000</td>
+<td class=xl33>12603.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>19.09545455</td>
+<td class=xl33>12603.000</td>
+</tr><tr height=22>
+<td class=xl24>01S6803210-00</td>
+<td class=xl24>01S6803210-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>01S7502110-00</td>
+<td class=xl24>01S7502110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>8.00000000</td>
+<td class=xl33>5307.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>8.04090909</td>
+<td class=xl33>5307.000</td>
+</tr><tr height=22>
+<td class=xl24>01S7502210-00</td>
+<td class=xl24>01S7502210-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>3.00000000</td>
+<td class=xl33>1990.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>3.01515152</td>
+<td class=xl33>1990.000</td>
+</tr><tr height=22>
+<td class=xl24>01S7503310-00</td>
+<td class=xl24>01S7503310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>01S8201310-00</td>
+<td class=xl24>01S8201310-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S8202210-00</td>
+<td class=xl24>01S8202210-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>01S9102110-00</td>
+<td class=xl24>01S9102110-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;RES</span></td>
+<td class=xl38>6.00000000</td>
+<td class=xl33>3980.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>6.03030303</td>
+<td class=xl33>3980.000</td>
+</tr><tr height=22>
+<td class=xl24>02S1010520-00</td>
+<td class=xl24>02S1010520-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>3.00000000</td>
+<td class=xl33>1990.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>3.01515152</td>
+<td class=xl33>1990.000</td>
+</tr><tr height=22>
+<td class=xl24>02S1012180-00</td>
+<td class=xl24>02S1012180-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>3.00000000</td>
+<td class=xl33>1990.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>3.01515152</td>
+<td class=xl33>1990.000</td>
+</tr><tr height=22>
+<td class=xl24>02S1020530-00</td>
+<td class=xl24>02S1020530-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>4.00000000</td>
+<td class=xl33>2654.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>4.02121212</td>
+<td class=xl33>2654.000</td>
+</tr><tr height=22>
+<td class=xl24>02S1030530-00</td>
+<td class=xl24>02S1030530-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>4.00000000</td>
+<td class=xl33>2654.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>4.02121212</td>
+<td class=xl33>2654.000</td>
+</tr><tr height=22>
+<td class=xl24>02S1030860-00</td>
+<td class=xl24>02S1030860-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>02S1032180-00</td>
+<td class=xl24>02S1032180-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>9.00000000</td>
+<td class=xl33>5970.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>9.04545455</td>
+<td class=xl33>5970.000</td>
+</tr><tr height=22>
+<td class=xl24>02S1040530-00</td>
+<td class=xl24>02S1040530-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>7.00000000</td>
+<td class=xl33>4644.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>7.03636364</td>
+<td class=xl33>4644.000</td>
+</tr><tr height=22>
+<td class=xl24>02S1040560-00</td>
+<td class=xl24>02S1040560-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>5.00000000</td>
+<td class=xl33>3317.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>5.02575758</td>
+<td class=xl33>3317.000</td>
+</tr><tr height=22>
+<td class=xl24>02S1040590-00</td>
+<td class=xl24>02S1040590-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>3.00000000</td>
+<td class=xl33>1990.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>3.01515152</td>
+<td class=xl33>1990.000</td>
+</tr><tr height=22>
+<td class=xl24>02S1040860-00</td>
+<td class=xl24>02S1040860-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>02S1050230-00</td>
+<td class=xl24>02S1050230-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>3.00000000</td>
+<td class=xl33>1990.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>3.01515152</td>
+<td class=xl33>1990.000</td>
+</tr><tr height=22>
+<td class=xl24>02S1050360-00</td>
+<td class=xl24>02S1050360-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>02S1050801-00</td>
+<td class=xl24>02S1050801-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>6.00000000</td>
+<td class=xl33>3980.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>6.03030303</td>
+<td class=xl33>3980.000</td>
+</tr><tr height=22>
+<td class=xl24>02S2200520-00</td>
+<td class=xl24>02S2200520-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>02S2210510-00</td>
+<td class=xl24>02S2210510-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>3.00000000</td>
+<td class=xl33>1990.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>3.01515152</td>
+<td class=xl33>1990.000</td>
+</tr><tr height=22>
+<td class=xl24>02S2212191-00</td>
+<td class=xl24>02S2212191-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>02S2240590-00</td>
+<td class=xl24>02S2240590-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>02S2250360-00</td>
+<td class=xl24>02S2250360-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>02S4702181-00</td>
+<td class=xl24>02S4702181-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>4.00000000</td>
+<td class=xl33>2654.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>4.02121212</td>
+<td class=xl33>2654.000</td>
+</tr><tr height=22>
+<td class=xl24>02S4710521-00</td>
+<td class=xl24>02S4710521-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>02S4722190-00</td>
+<td class=xl24>02S4722190-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>3.00000000</td>
+<td class=xl33>1990.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>3.01515152</td>
+<td class=xl33>1990.000</td>
+</tr><tr height=22>
+<td class=xl24>02S4731990-00</td>
+<td class=xl24>02S4731990-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>02S4740230-00</td>
+<td class=xl24>02S4740230-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>02S4740360-00</td>
+<td class=xl24>02S4740360-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>3.00000000</td>
+<td class=xl33>1990.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>3.01515152</td>
+<td class=xl33>1990.000</td>
+</tr><tr height=22>
+<td class=xl24>02S4750390-00</td>
+<td class=xl24>02S4750390-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1327.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.01060606</td>
+<td class=xl33>1327.000</td>
+</tr><tr height=22>
+<td class=xl24>02S6810530-00</td>
+<td class=xl24>02S6810530-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>02S6820530-00</td>
+<td class=xl24>02S6820530-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;CAP</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>03S3216001-09</td>
+<td class=xl24>03S3216001-09</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Bead&nbsp;Core(Multilayer-SMD-Ferrite)</span></td>
+<td class=xl38>6.00000000</td>
+<td class=xl33>3980.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>6.03030303</td>
+<td class=xl33>3980.000</td>
+</tr><tr height=22>
+<td class=xl24>03S3216001-13</td>
+<td class=xl24>03S3216001-13</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Bead&nbsp;Core(EUM150S420DG&nbsp;REV:A)</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>664.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00606061</td>
+<td class=xl33>664.000</td>
+</tr><tr height=22>
+<td class=xl24>04S1020001-21</td>
+<td class=xl24>04S1020001-21</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Gas&nbsp;Discharge&nbsp;Tube</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>660.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>660.000</td>
+</tr><tr height=22>
+<td class=xl24>04S1500000-02</td>
+<td class=xl24>04S1500000-02</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;TVS&nbsp;Diode</span></td>
+<td class=xl38>3.00000000</td>
+<td class=xl33>1894.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.86969697</td>
+<td class=xl33>1894.000</td>
+</tr><tr height=22>
+<td class=xl24>04S1516101-20</td>
+<td class=xl24>04S1516101-20</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;TVS&nbsp;Diode</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>86.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>0.13030303</td>
+<td class=xl33>86.000</td>
+</tr><tr height=22>
+<td class=xl24>04S1716101-21</td>
+<td class=xl24>04S1716101-21</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;TVS&nbsp;Diode(BV-SMAJ170A&nbsp;)</span></td>
+<td class=xl38>4.00000000</td>
+<td class=xl33>2640.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>4.00000000</td>
+<td class=xl33>2640.000</td>
+</tr><tr height=22>
+<td class=xl24>04S6010001-16</td>
+<td class=xl24>04S6010001-16</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Gas&nbsp;Discharge&nbsp;Tube</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1320.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1320.000</td>
+</tr><tr height=22>
+<td class=xl24>05S1000000-10</td>
+<td class=xl24>05S1000000-10</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;U-Fast&nbsp;Diode</span></td>
+<td class=xl38>5.00000000</td>
+<td class=xl33>3310.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>5.01515152</td>
+<td class=xl33>3310.000</td>
+</tr><tr height=22>
+<td class=xl24>05S1000002-06</td>
+<td class=xl24>05S1000002-06</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;U-Fast&nbsp;Diode</span></td>
+<td class=xl38>3.00000000</td>
+<td class=xl33>1986.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>3.00909091</td>
+<td class=xl33>1986.000</td>
+</tr><tr height=22>
+<td class=xl24>05S1200001-03</td>
+<td class=xl24>05S1200001-03</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Fast&nbsp;Diode</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1324.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.00606061</td>
+<td class=xl33>1324.000</td>
+</tr><tr height=22>
+<td class=xl24>05S1414800-06</td>
+<td class=xl24>05S1414800-06</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Switching&nbsp;Diode</span></td>
+<td class=xl38>4.00000000</td>
+<td class=xl33>2648.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>4.01212121</td>
+<td class=xl33>2648.000</td>
+</tr><tr height=22>
+<td class=xl24>05S1414801-17</td>
+<td class=xl24>05S1414801-17</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Switching&nbsp;Diode</span></td>
+<td class=xl38>17.00000000</td>
+<td class=xl33>11254.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>17.05151515</td>
+<td class=xl33>11254.000</td>
+</tr><tr height=22>
+<td class=xl24>05S3331000-18</td>
+<td class=xl24>05S3331000-18</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Zener&nbsp;Diode</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>662.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00303030</td>
+<td class=xl33>662.000</td>
+</tr><tr height=22>
+<td class=xl24>05S5231100-18</td>
+<td class=xl24>05S5231100-18</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Zener&nbsp;Diode</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>662.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00303030</td>
+<td class=xl33>662.000</td>
+</tr><tr height=22>
+<td class=xl24>05S5236100-18</td>
+<td class=xl24>05S5236100-18</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Zener&nbsp;Diode</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>662.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00303030</td>
+<td class=xl33>662.000</td>
+</tr><tr height=22>
+<td class=xl24>05S5240100-18</td>
+<td class=xl24>05S5240100-18</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Zener&nbsp;Diode</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1324.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.00606061</td>
+<td class=xl33>1324.000</td>
+</tr><tr height=22>
+<td class=xl24>05S5243100-18</td>
+<td class=xl24>05S5243100-18</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Zener&nbsp;Diode</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>662.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00303030</td>
+<td class=xl33>662.000</td>
+</tr><tr height=22>
+<td class=xl24>05S5250000-06</td>
+<td class=xl24>05S5250000-06</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Zener&nbsp;Diode</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>662.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00303030</td>
+<td class=xl33>662.000</td>
+</tr><tr height=22>
+<td class=xl24>05S5410001-18</td>
+<td class=xl24>05S5410001-18</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Schottky&nbsp;Diode</span></td>
+<td class=xl38>3.00000000</td>
+<td class=xl33>1986.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>3.00909091</td>
+<td class=xl33>1986.000</td>
+</tr><tr height=22>
+<td class=xl24>05SGS3J000-03</td>
+<td class=xl24>05SGS3J000-03</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Rectifier&nbsp;Diode</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1324.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.00606061</td>
+<td class=xl33>1324.000</td>
+</tr><tr height=22>
+<td class=xl24>05SGU1M000-03</td>
+<td class=xl24>05SGU1M000-03</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;U-Fast&nbsp;Diode</span></td>
+<td class=xl38>3.00000000</td>
+<td class=xl33>1986.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>3.00909091</td>
+<td class=xl33>1986.000</td>
+</tr><tr height=22>
+<td class=xl24>06S2222001-24</td>
+<td class=xl24>06S2222001-24</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Transistor</span></td>
+<td class=xl38>5.00000000</td>
+<td class=xl33>3307.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>5.01060606</td>
+<td class=xl33>3307.000</td>
+</tr><tr height=22>
+<td class=xl24>06S2700201-24</td>
+<td class=xl24>06S2700201-24</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;N-MOS</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1320.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1320.000</td>
+</tr><tr height=22>
+<td class=xl24>06S2907001-24</td>
+<td class=xl24>06S2907001-24</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Transistor</span></td>
+<td class=xl38>4.00000000</td>
+<td class=xl33>2646.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>4.00909091</td>
+<td class=xl33>2646.000</td>
+</tr><tr height=22>
+<td class=xl24>06S3480401-36</td>
+<td class=xl24>06S3480401-36</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Transistor</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>662.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00303030</td>
+<td class=xl33>662.000</td>
+</tr><tr height=22>
+<td class=xl24>06S5350000-10</td>
+<td class=xl24>06S5350000-10</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Transistor</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1323.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.00454545</td>
+<td class=xl33>1323.000</td>
+</tr><tr height=22>
+<td class=xl24>06S5616001-20</td>
+<td class=xl24>06S5616001-20</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Transistor</span></td>
+<td class=xl38>6.00000000</td>
+<td class=xl33>3968.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>6.01212121</td>
+<td class=xl33>3968.000</td>
+</tr><tr height=22>
+<td class=xl24>07C1019000-10</td>
+<td class=xl24>07C1019000-10</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Photo&nbsp;Coupler</span></td>
+<td class=xl38>3.00000000</td>
+<td class=xl33>1986.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>3.00909091</td>
+<td class=xl33>1986.000</td>
+</tr><tr height=22>
+<td class=xl24>07G2904000-07</td>
+<td class=xl24>07G2904000-07</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Operational&nbsp;Amplifier&nbsp;IC</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>660.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>660.000</td>
+</tr><tr height=22>
+<td class=xl24>07S1001001-35</td>
+<td class=xl24>07S1001001-35</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;LLC&nbsp;IC</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>660.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>660.000</td>
+</tr><tr height=22>
+<td class=xl24>07S1700001-48</td>
+<td class=xl24>07S1700001-48</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;IC</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>660.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>660.000</td>
+</tr><tr height=22>
+<td class=xl24>07S2012001-04</td>
+<td class=xl24>07S2012001-04</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;IC</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>660.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>660.000</td>
+</tr><tr height=22>
+<td class=xl24>07S2806301-07</td>
+<td class=xl24>07S2806301-07</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;PFC&nbsp;IC</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>660.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>660.000</td>
+</tr><tr height=22>
+<td class=xl24>07S3700001-10</td>
+<td class=xl24>07S3700001-10</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Photo&nbsp;Coupler</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>660.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>660.000</td>
+</tr><tr height=22>
+<td class=xl24>07S3930001-49</td>
+<td class=xl24>07S3930001-49</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;Voltage&nbsp;Comparators&nbsp;IC</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>660.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>660.000</td>
+</tr><tr height=22>
+<td class=xl24>07S4310001-12</td>
+<td class=xl24>07S4310001-12</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;V-Reg&nbsp;IC</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1320.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1320.000</td>
+</tr><tr height=22>
+<td class=xl24>07S4320001-12</td>
+<td class=xl24>07S4320001-12</td>
+<td class=xl24><span style='mso-spacerun:yes'>CHIP&nbsp;V-Reg&nbsp;IC</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1320.000</td>
+<td class=xl24><span style='mso-spacerun:yes'>0:No&nbsp;REP/SUB</span></td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>2.00000000</td>
+<td class=xl33>1320.000</td>
+</tr><tr height=22>
+<td class=xl24>13M6000021400</td>
+<td class=xl24>13M6000021400</td>
+<td class=xl24><span style='mso-spacerun:yes'>Main&nbsp;PCB(ESM-680S840LG&nbsp;REV:B4)</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>660.000</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>PCS</td>
+<td class=xl24><span style='mso-spacerun:yes'>N:General&nbsp;Item</span></td>
+<td class=xl38>1.00000000</td>
+<td class=xl33>660.000</td>
+</tr><tr height=22>
+<td class=xl24>19A3004001-00</td>
+<td class=xl24>19A3004001-00</td>
+<td class=xl24><span style='mso-spacerun:yes'>Solder&nbsp;Paste</span></td>
+<td class=xl38>0.00088000</td>
+<td class=xl33>0.581</td>
+<td class=xl24>2:M.It</td>
+<td class=xl36>1.000000</td>
+<td class=xl24>KG</td>
+<td class=xl24><span style='mso-spacerun:yes'>E:Consumable&nbsp;Item</span></td>
+<td class=xl38>0.00088030</td>
+<td class=xl33>0.000</td>
+</tr></table></body></html>

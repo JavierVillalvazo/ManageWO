@@ -1,0 +1,101 @@
+#logo {
+  width: 140px;
+  height: max-content;
+/* }
+img {
+  width: 0px;
+}
+
+.b tn {
+  font-size: 1rem;
+}
+
+img {
+  width: 200px;
+}
+
+html {
+  min-height: 100vh;
+  font-size: 1.1rem;
+}
+
+body {
+  min-height: 100vh;
+  min-height: 100vh;
+}
+/* ================MEDIA QUERIES================= */
+/* monitor */
+@media (min-width: 1400px) {
+  html {
+    min-height: 100vh;
+    font-size: 1.1rem;
+  }
+  .filter {
+    width: 100%;
+  }
+}
+#myTable {
+  font-size: small;
+}
+
+.empty-state__message {
+  font-size: 1.3rem;
+}
+.empty-state__help {
+  font-size: 1rem;
+}
+@media (min-width: 1100px) {
+  /*code for destop*/
+}
+@media (max-width: 1100px) {
+  /*code for ipad and netbooks*/
+  .empty-state__message {
+    font-size: 0.8rem;
+  }
+  .add {
+    font-size: 1rem;
+  }
+  .empty-state__help {
+    font-size: 0.6rem;
+  }
+}
+@media (max-width: 850px) {
+}
+/* mediana */
+@media (min-width: 550px) {
+  html {
+    font-size: 1.4rem;
+    min-height: 100vh;
+  }
+  img {
+    width: 200px;
+    margin-left: 0;
+  }
+
+  body {
+    min-width: 100%;
+    min-height: 100vh;
+  }
+
+  #myTable {
+    font-size: 0.8rem;
+  }
+}
+@media (max-width: 480px) {
+  /*code for mobile here*/
+  .empty-state__message {
+    font-size: 0.8rem;
+  }
+  .add {
+    font-size: 0.8rem;
+  }
+}
+
+@media (max-width: 360px) {
+  #forgot {
+    margin-left: 0;
+    padding-top: 10px;
+  }
+} 
+
+

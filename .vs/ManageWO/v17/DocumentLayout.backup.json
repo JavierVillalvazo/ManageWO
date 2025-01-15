@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|c:\\users\\j.villalvazo\\source\\repos\\managewo\\edit_smtkn.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|solutionrelative:edit_smtkn.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\edit_smtkn.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|solutionrelative:edit_smtkn.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|c:\\users\\j.villalvazo\\source\\repos\\managewo\\edit_pthkn.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|solutionrelative:edit_pthkn.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|c:\\users\\j.villalvazo\\source\\repos\\managewo\\pthkn.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|solutionrelative:pthkn.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\uploadalterns.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|solutionrelative:uploadalterns.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\uploadalterns.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|solutionrelative:uploadalterns.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\pthwo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|solutionrelative:pthwo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\smtwo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|solutionrelative:smtwo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\smtwo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|solutionrelative:smtwo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\searchsmtwo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|solutionrelative:searchsmtwo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\fs.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|solutionrelative:fs.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\pthkn.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|solutionrelative:pthkn.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\edit_pthkn.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A5DBB-A9D9-411B-88A4-21AD17E4F197}|ManageWO.csproj|solutionrelative:edit_pthkn.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\resources\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 156,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "edit_smtkn.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\edit_smtkn.aspx.cs",
+              "RelativeDocumentMoniker": "edit_smtkn.aspx.cs",
+              "ToolTip": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\edit_smtkn.aspx.cs",
+              "RelativeToolTip": "edit_smtkn.aspx.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:29:28.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "edit_pthkn.aspx",
+              "DocumentMoniker": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\edit_pthkn.aspx",
+              "RelativeDocumentMoniker": "edit_pthkn.aspx",
+              "ToolTip": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\edit_pthkn.aspx",
+              "RelativeToolTip": "edit_pthkn.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-14T22:28:41.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\resources\\css\\styles.css",
+              "RelativeDocumentMoniker": "resources\\css\\styles.css",
+              "ToolTip": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\resources\\css\\styles.css",
+              "RelativeToolTip": "resources\\css\\styles.css",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBPwAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-08T20:44:52.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PTHWO.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\PTHWO.aspx.cs",
+              "RelativeDocumentMoniker": "PTHWO.aspx.cs",
+              "ToolTip": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\PTHWO.aspx.cs",
+              "RelativeToolTip": "PTHWO.aspx.cs",
+              "ViewState": "AgIAADACAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:51:28.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "smtWO.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\smtWO.aspx.cs",
+              "RelativeDocumentMoniker": "smtWO.aspx.cs",
+              "ToolTip": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\smtWO.aspx.cs",
+              "RelativeToolTip": "smtWO.aspx.cs",
+              "ViewState": "AgIAAJ0BAAAAAAAAAAAywKoBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T21:15:36.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PTHKN.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\PTHKN.aspx.cs",
+              "RelativeDocumentMoniker": "PTHKN.aspx.cs",
+              "ToolTip": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\PTHKN.aspx.cs",
+              "RelativeToolTip": "PTHKN.aspx.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAAABMBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:50:54.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UploadAlterns.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\UploadAlterns.aspx.cs",
+              "RelativeDocumentMoniker": "UploadAlterns.aspx.cs",
+              "ToolTip": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\UploadAlterns.aspx.cs",
+              "RelativeToolTip": "UploadAlterns.aspx.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAWwNwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:28:29.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Default.aspx.cs",
+              "ToolTip": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\Default.aspx.cs",
+              "RelativeToolTip": "Default.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA0wB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:29:43.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SearchSmtWO.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\SearchSmtWO.aspx.cs",
+              "RelativeDocumentMoniker": "SearchSmtWO.aspx.cs",
+              "ToolTip": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\SearchSmtWO.aspx.cs",
+              "RelativeToolTip": "SearchSmtWO.aspx.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAjwH8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T18:19:54.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-08T22:11:08.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UploadAlterns.aspx",
+              "DocumentMoniker": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\UploadAlterns.aspx",
+              "RelativeDocumentMoniker": "UploadAlterns.aspx",
+              "ToolTip": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\UploadAlterns.aspx",
+              "RelativeToolTip": "UploadAlterns.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-10T17:16:52.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-10T17:54:17.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "edit_smtkn.aspx",
+              "DocumentMoniker": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\edit_smtkn.aspx",
+              "RelativeDocumentMoniker": "edit_smtkn.aspx",
+              "ToolTip": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\edit_smtkn.aspx",
+              "RelativeToolTip": "edit_smtkn.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-28T13:25:08.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FS.aspx",
+              "DocumentMoniker": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\FS.aspx",
+              "RelativeDocumentMoniker": "FS.aspx",
+              "ToolTip": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\FS.aspx",
+              "RelativeToolTip": "FS.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-08T20:47:17.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PTHKN.aspx",
+              "DocumentMoniker": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\PTHKN.aspx",
+              "RelativeDocumentMoniker": "PTHKN.aspx",
+              "ToolTip": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\PTHKN.aspx",
+              "RelativeToolTip": "PTHKN.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-04T15:50:50.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\Home.aspx",
+              "RelativeDocumentMoniker": "Home.aspx",
+              "ToolTip": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\Home.aspx",
+              "RelativeToolTip": "Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-08T22:11:35.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\login.aspx",
+              "RelativeDocumentMoniker": "login.aspx",
+              "ToolTip": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\login.aspx",
+              "RelativeToolTip": "login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-08T22:10:49.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "edit_pthkn.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\edit_pthkn.aspx.cs",
+              "RelativeDocumentMoniker": "edit_pthkn.aspx.cs",
+              "ToolTip": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\edit_pthkn.aspx.cs",
+              "RelativeToolTip": "edit_pthkn.aspx.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAIBPwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:51:32.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "smtWO.aspx",
+              "DocumentMoniker": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\smtWO.aspx",
+              "RelativeDocumentMoniker": "smtWO.aspx",
+              "ToolTip": "C:\\Users\\J.Villalvazo\\source\\repos\\ManageWO\\smtWO.aspx",
+              "RelativeToolTip": "smtWO.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-04T17:44:11.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
